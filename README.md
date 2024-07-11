@@ -24,5 +24,5 @@ E configurar as credenciais (Access Key ID, Secret Access Key, região padrão e
 ```
 aws configure
 ```
-- 
+Obs: caso já tenha as credenciais armazenadas localmente, não é necessário executar esse passo.
 
